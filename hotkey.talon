@@ -1,1 +1,1 @@
-key(ctrl-shift-\): speech.toggle()
+key(ctrl-space): speech.toggle()
