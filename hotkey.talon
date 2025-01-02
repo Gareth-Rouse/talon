@@ -1,2 +1,2 @@
-## Gareth custom edits.
+## Gareth custom edits
 key(ctrl-\): speech.toggle()
