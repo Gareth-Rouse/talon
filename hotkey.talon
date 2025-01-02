@@ -1,1 +1,2 @@
-key(ctrl-space): speech.toggle()
+## Gareth custom edits.
+key(ctrl-\): speech.toggle()
